@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fundo{
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+    width: 30vw;
+    height: 20vh;
+    background-color: rgb(161, 160, 160);
+    font-size: 40px;
+}
+.verde{
+    display: flex;
+    height: 5vh;
+    width: 10vw;
+    background-color: rgb(252, 252, 252);
+    border-radius: 20px;
+}
+.branco{
+    display: flex;
+    height: 5vh;
+    width: 7vw;
+    background-color: green;
+    border-radius: 20px;
+}
+.p{
+    margin-top: 10px;
+}
